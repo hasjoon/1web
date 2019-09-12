@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Engagement Activity </title>
+	</head>
+	<body>
+	<h1>Sungjoon Ha</h1>
+	<img src="web1.jpg" width="300"height="300">
+
+	<h2>Internet</h2>
+		<P>The Internet is the huge computer network which connects tons of people in the world. <br>We are able to say that the world is changed before and after the internet is made.</p>
+	
+	<h2>web</h2>
+		<p>The web is a communication tool through HTTP.<br> Also, it literally means the web of spider.<br> The reason why people made that name is that one or many sits are combined together as like "web." </p>
+	
+	<h2>How are the Internet and Web different?</h2>
+		<p>The Internet is global network while the web is service in the Internet.</p>
+	
+	<h2>ASCII Encoding</h2>
+		<p> ASCII is American Standard Code for Information Interchange. And, It uses Alphabet </p>
+	
+	<h2>URL</h2>
+		<p>A Uniform Resource Locator. Equals term of a web address. People can go into specific location which is in the computer network.</p>
+	
+	<h2>Domain Name</h2>
+		<p>This is a web site name, which is the address that people can access the web site</p>
+	
+	<h2>HTTP</h2>
+		<p>Hyper Text Transfer Protocol which is used by the World Wide Web.<br> This identifies what web server and browser need to respons to lots of commands.  </p>
+	
+	<h2>HTTPS</h2>
+		<p> It is basically same with HTTP, but the meaning of s is 'secure' which gives more protection.</p>
+
+	<h2>IP Address</h2>
+		<p>Internet Protocol Address. It is made by numbers and assign a specific respons to devices' command from computer network server. </p>
+	
+	<h2>DNS</h2>
+		<p>DNS is Domain Name System, which is service of internet that Domain name into IP address and vice versa </p>
+	
+	<h2>W3C Recommendations</h2>
+		<p>This is the standard of web. The purpose of it is getting all potential of world wide web. </p>
+	
+	<h2>XML,XHTML,HTML,HTML5</h2>
+		<p>All different versions of HTML. At first, we know what is HTML right not which is Hyper Text Transfer Protocol.<br> At the same page, the HTML5 is next version of HTML. The XML is Extensible Markup Language.<br>It covers datas. The XHTML is HTML but it is following XML rules.   </p>
+	<h3><a href="https://byuh.edu/">BYUH<a></h3>
+	</body>
+</html>
